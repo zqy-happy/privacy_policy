@@ -1,0 +1,7 @@
+dependencies:
+  - python=3
+  - pip:
+    - pyautogui
+    - from ctypes import *
+    - import pyautogui
+    - import time
