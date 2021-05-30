@@ -1,6 +1,7 @@
 dependencies:
   - python=3
   - pip:
+    - ipykernel
     - pyautogui
     - pyautogui
     - time
